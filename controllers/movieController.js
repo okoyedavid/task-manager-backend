@@ -20,9 +20,32 @@ const handleAddMovies = async (req, res) => {
   const data = await fsPromises.readFile(moviespath, "utf8");
   const movies = await JSON.parse(data);
 
-  const newMovies = [...movies, movie];
+  const duplicate = movies.find((m) => m.id === movie.id);
+  if (duplicate) {
+    return res
+      .status(409)
+      .json({ message: "Movie with this ID already exists" });
+  }
+
+  const newMovies = [movie, ...movies];
   await fsPromises.writeFile(moviespath, JSON.stringify(newMovies, null, 2));
   return res.status(201).json({ message: "Movie added successfully" });
 };
 
-module.exports = { handleFetchMovies, handleAddMovies };
+const handleDeleteMovies = async (req, res) => {
+  const { id } = req.params;
+
+  if (!id) return res.status(400).json({ message: "movie id is required" });
+
+  const data = await fsPromises.readFile(moviespath, "utf8");
+  const movies = await JSON.parse(data);
+
+  const filteredMovies = movies.filter((movie) => movie.id !== parseInt(id));
+  await fsPromises.writeFile(
+    moviespath,
+    JSON.stringify(filteredMovies, null, 2)
+  );
+  return res.status(200).json({ message: "Movie deleted successfully" });
+};
+
+module.exports = { handleFetchMovies, handleAddMovies, handleDeleteMovies };

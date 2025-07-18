@@ -1,410 +1,343 @@
 [
   {
-    "adult": false,
-    "backdrop_path": "/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg",
+    "id": 64548,
+    "title": "Cheese in the Trap",
+    "name": "Cheese in the Trap",
+    "first_air_date": "2016-01-04",
+    "poster_path": "/43tzmGPbZdUTPVMFtDn2x0Kr8nE.jpg",
+    "release_date": "NaN",
     "genre_ids": [
-      28,
-      878
-    ],
-    "id": 557,
-    "original_language": "en",
-    "original_title": "Spider-Man",
-    "userRating": "9",
-    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-    "popularity": 21.3448,
-    "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
-    "release_date": "2002-05-01",
-    "title": "Spider-Man",
-    "video": false,
-    "vote_average": 7.313,
-    "status": "to-watch",
-    "vote_count": 19707
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/etH3I19Kcq1nippL39YzK3s2TfG.jpg",
-    "genre_ids": [],
-    "id": 1459380,
-    "original_language": "es",
-    "original_title": "SPIDERMAN",
-    "userRating": "9",
-    "overview": "",
-    "popularity": 0.3596,
-    "poster_path": null,
-    "release_date": "",
-    "title": "SPIDERMAN",
-    "video": true,
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
-    "genre_ids": [
-      878,
-      28,
-      80,
-      10770
-    ],
-    "id": 225914,
-    "original_language": "en",
-    "original_title": "Spider-Man",
-    "userRating": "9",
-    "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
-    "popularity": 1.2732,
-    "poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
-    "release_date": "1977-09-14",
-    "title": "Spider-Man",
-    "video": false,
-    "vote_average": 6.3,
-    "vote_count": 199
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      28,
-      878
-    ],
-    "id": 445033,
-    "original_language": "en",
-    "original_title": "Spider-Man",
-    "userRating": "9",
-    "overview": "Spider-man must rescue the beautiful daughter of the evil Dr. Lightning.",
-    "popularity": 0.3871,
-    "poster_path": "/xfmZECbfYx672XIshP6dPt5K5jI.jpg",
-    "release_date": "1969-01-01",
-    "title": "Spider-Man",
-    "video": false,
-    "vote_average": 7.578,
-    "vote_count": 51
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      28,
+      35,
       18
     ],
-    "id": 1341771,
-    "original_language": "es",
-    "original_title": "Spider-Man!",
-    "userRating": "9",
-    "overview": "After being bitten by a radioactive spider, Peter Parker uses his new powers to locate and catch the killer of his beloved Uncle Ben.\r First of the three short films made by \"The Trauma Group\" (Naxo Fiol, Chema Ponze, Gabi Tintorer) on the Marvel character between 1993 and 1996. This is the first film made in Spain, shot without more budget than the spent in the costume of the hero (60,000 pesetas of 1993) and shot with a video-8 camera of the time, so the image and the sound, together with the passage of time make the quality of both very poor. Halfway between the experimental, psychotronic cinema and avant-garde cinema, it´s a very extravagant version of the character, softened in the second incursion of the Trauma Group in the character: \"Peter Parker is Spider-Man\" (1996), closer than this to the original comic.",
-    "popularity": 0.223,
-    "poster_path": "/lvXFC3xpMdaIqjFMVEfjpSrelPm.jpg",
-    "release_date": "1993-10-01",
-    "title": "Spider-Man!",
-    "video": false,
-    "vote_average": 10,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9QS0if3zwG2J7ue8rhyphO9Tq3V.jpg",
-    "genre_ids": [
-      28,
-      12
-    ],
-    "id": 1504575,
-    "original_language": "en",
-    "original_title": "Spider-Man",
-    "userRating": "9",
-    "overview": "A short film has been released to celebrate the 25th anniversary of 2000 video game with a different ending and newer events.",
-    "popularity": 0.2716,
-    "poster_path": "/9NxmHjq2v11RMW2WWiNPwHS5wsn.jpg",
-    "release_date": "",
-    "title": "Spider-Man",
-    "video": false,
-    "vote_average": 9,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 634649,
-    "original_language": "en",
-    "original_title": "Spider-Man: No Way Home",
-    "userRating": "9",
-    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "popularity": 24.7767,
-    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "release_date": "2021-12-15",
-    "title": "Spider-Man: No Way Home",
-    "video": false,
-    "vote_average": 7.943,
-    "vote_count": 20903
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-    "genre_ids": [
-      16,
-      28,
-      12,
-      878
-    ],
-    "id": 569094,
-    "original_language": "en",
-    "original_title": "Spider-Man: Across the Spider-Verse",
-    "userRating": "9",
-    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "popularity": 26.2793,
-    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "release_date": "2023-05-31",
-    "title": "Spider-Man: Across the Spider-Verse",
-    "video": false,
-    "vote_average": 8.347,
-    "vote_count": 7702
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      18
-    ],
-    "id": 148918,
-    "original_language": "ro",
-    "original_title": "Superman, Spider-Man sau Batman",
-    "userRating": "9",
-    "overview": "Aron, a 5-year-old boy, sets together with his worried father on a journey at the end of which he wishes, like the superheroes in the comic books, to save his mother suffering from a heart condition.",
-    "popularity": 0.1416,
-    "poster_path": "/iUp85s5s7eaPbuCUNqOCeJCEVpY.jpg",
-    "release_date": "2011-06-01",
-    "title": "Superman, Spider-Man or Batman",
-    "video": false,
     "vote_average": 6.9,
-    "vote_count": 23
+    "overview": "Hong Seol and Yoo Jung attend the same college, but they couldn't be more different. Hong Seol is a poor, unpopular student with no money, while Yoo Jung is rich, well-liked, extremely smart, and popular. Hong Seol just wants to get through her college career quietly, but finds herself getting caught up in whatever Yoo Jung drags her into. Can Hong Seol break away, or will she continue to be the only person who sees Yoo Jung's true self?",
+    "status": "to-watch"
   },
   {
-    "adult": false,
-    "backdrop_path": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+    "id": 95555,
+    "title": "Daisy Jones & the Six",
+    "name": "Daisy Jones & the Six",
+    "first_air_date": "2023-03-02",
+    "poster_path": "/ltfscPUljehY7IwGG85vij2TEbQ.jpg",
+    "release_date": "NaN",
     "genre_ids": [
-      28,
-      12,
-      878,
       18
     ],
-    "id": 315635,
-    "original_language": "en",
-    "original_title": "Spider-Man: Homecoming",
-    "userRating": "9",
-    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-    "popularity": 18.7909,
-    "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "release_date": "2017-07-05",
-    "title": "Spider-Man: Homecoming",
-    "video": false,
-    "vote_average": 7.331,
-    "vote_count": 22322
+    "vote_average": 7.9,
+    "overview": "In 1977, Daisy Jones & The Six were on top of the world. Fronted by two charismatic lead singers — Daisy Jones and Billy Dunne — the band had risen from obscurity to fame. And then, after a sold-out show at Chicago's Soldier Field, they called it quits. Now, decades later, the band members finally agree to reveal the truth.",
+    "status": "to-watch"
   },
   {
-    "adult": false,
-    "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+    "id": 932430,
+    "title": "Prom Pact",
+    "poster_path": "/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg",
+    "release_date": "2023",
     "genre_ids": [
-      16,
-      28,
-      12,
-      878
+      10749,
+      35
     ],
-    "id": 324857,
-    "original_language": "en",
-    "original_title": "Spider-Man: Into the Spider-Verse",
-    "userRating": "9",
-    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
-    "popularity": 18.1265,
-    "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "release_date": "2018-12-06",
-    "title": "Spider-Man: Into the Spider-Verse",
-    "video": false,
-    "vote_average": 8.399,
-    "vote_count": 16262
+    "vote_average": 7.276,
+    "overview": "It's prom season, and high school senior Mandy and her best friend and fellow outsider Ben are surrounded by over-the-top \"promposals.\" Mandy is only focused on getting into her dream school Harvard, but as she starts tutoring basketball all-star Graham, she must re-evaluate whether her dream school is worth the cost of everything she believes in.",
+    "status": "to-watch"
   },
   {
-    "adult": false,
-    "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+    "id": 259288,
+    "title": "Friendly Rivalry",
+    "name": "Friendly Rivalry",
+    "first_air_date": "2025-02-10",
+    "poster_path": "/eRwNhjpizV7up8KrCmiI94is1bl.jpg",
+    "release_date": "NaN",
     "genre_ids": [
-      28,
-      12,
-      878
+      9648,
+      18
     ],
-    "id": 559,
-    "original_language": "en",
-    "original_title": "Spider-Man 3",
-    "userRating": "9",
-    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-    "popularity": 15.8535,
-    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-    "release_date": "2007-05-01",
-    "title": "Spider-Man 3",
-    "video": false,
-    "vote_average": 6.44,
-    "vote_count": 14542
+    "vote_average": 8.679,
+    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
+    "status": "to-watch"
   },
   {
-    "adult": false,
-    "backdrop_path": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+    "id": 288415,
+    "title": "Atonement",
+    "name": "Atonement",
+    "first_air_date": "2025-04-10",
+    "poster_path": "/2Lo7zQllj3N2UqnRObP5CYAztmu.jpg",
+    "release_date": "NaN",
     "genre_ids": [
-      28,
-      12,
-      878
+      9648
     ],
-    "id": 429617,
-    "original_language": "en",
-    "original_title": "Spider-Man: Far From Home",
-    "userRating": "9",
-    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-    "popularity": 13.7055,
-    "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
-    "release_date": "2019-06-28",
-    "title": "Spider-Man: Far From Home",
-    "video": false,
-    "vote_average": 7.407,
-    "vote_count": 16174
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ac0kRKTfiJ4GcoUfb0XIO5vgC8q.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 1930,
-    "original_language": "en",
-    "original_title": "The Amazing Spider-Man",
-    "userRating": "9",
-    "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
-    "popularity": 13.555,
-    "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
-    "release_date": "2012-06-23",
-    "title": "The Amazing Spider-Man",
-    "video": false,
-    "vote_average": 6.717,
-    "vote_count": 17795
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 102382,
-    "original_language": "en",
-    "original_title": "The Amazing Spider-Man 2",
-    "userRating": "9",
-    "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-    "popularity": 13.3663,
-    "poster_path": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
-    "release_date": "2014-04-16",
-    "title": "The Amazing Spider-Man 2",
-    "video": false,
-    "vote_average": 6.52,
-    "vote_count": 13624
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/izGt4OvJ7NXvL3tv7pkkltRfmTn.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 438561,
-    "original_language": "ja",
-    "original_title": "スパイダーマン",
-    "userRating": "9",
-    "overview": "The Iron Cross Army are sabotaging oil-tankers with the help of their monster, the Sea-Devil, a semi-mechanical anthropomorphic swordfish with an ability to shoot torpedoes from its mouth. Spiderman employs the help of the interpol agent Juzo Mamiya to help him stop the Iron Cross Army.",
-    "popularity": 0.9134,
-    "poster_path": "/hi98SQoZgxBMHmWsbhxyh5tNQcB.jpg",
-    "release_date": "1978-07-22",
-    "title": "Japanese Spiderman: Episode 0",
-    "video": false,
-    "vote_average": 6.2,
-    "vote_count": 29
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      99
-    ],
-    "id": 1324843,
-    "original_language": "tr",
-    "original_title": "Neukölln Spiderman",
-    "userRating": "9",
-    "overview": "Facing the risk of deportation from Germany, Altay learns that he must present a valid reason to the immigration office to stay. On his way home, he encounters a man wearing a Spider-Man mask and, curious about his valid reason, conducts a brief interview. During their conversation,  Altay realizes that a series of encounters has been helping him make sense of his recent anxieties. Inspired by this, he begins recording conversations with people who share a similar sense of delusion and brings strangers into organic dialogues. Through a blend of fiction, documentary, and animation, the film explores ...",
-    "popularity": 0.087,
-    "poster_path": "/3FxttXC7yPAxkIMskKYiTPjL3Sn.jpg",
-    "release_date": "2025-01-15",
-    "title": "Neukölln Spiderman",
-    "video": false,
     "vote_average": 0,
-    "vote_count": 0
+    "overview": "At a class reunion, Qin Suyan is drawn into a deadly game where players face ruthless rules, real danger, and growing distrust—especially with the mastermind hiding among them. As others give in to fear and violence, Qin Suyan holds on to her compassion. While uncovering a connection to a long-buried case, she must decide whether revealing the truth is worth the cost.",
+    "status": "to-watch"
   },
   {
-    "adult": false,
-    "backdrop_path": "/rRXye7JBRcKaqc0KfchNUCBNoDE.jpg",
+    "id": 253193,
+    "title": "A Dream Within a Dream",
+    "name": "A Dream Within a Dream",
+    "first_air_date": "2025-06-26",
+    "poster_path": "/8TVR8P9rNrgC9nr0h3X9FYX9TIl.jpg",
+    "release_date": "NaN",
     "genre_ids": [
-      16,
-      12,
-      28,
-      10770,
+      18
+    ],
+    "vote_average": 8.8,
+    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
+    "status": "to-watch"
+  },
+  {
+    "id": 68177,
+    "title": "Iris II",
+    "name": "Iris II",
+    "first_air_date": "2013-02-13",
+    "poster_path": "/59FXz0mmUsD8yCA7fECngJ9ywMR.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      18,
+      10759,
       80
     ],
-    "id": 270768,
-    "original_language": "en",
-    "original_title": "Daredevil vs. Spider-Man",
-    "userRating": "9",
-    "overview": "Spider-Man and Daredevil team up to fight Kingpin.",
-    "popularity": 0.8474,
-    "poster_path": "/mEtyZBbVl0sx0y1blYuVDgeNLkr.jpg",
-    "release_date": "2003-02-11",
-    "title": "Daredevil vs. Spider-Man",
-    "video": true,
-    "vote_average": 7.5,
-    "vote_count": 116
+    "vote_average": 7.6,
+    "overview": "IRIS II: New Generation explores the aftermath events of IRIS as well as Athena: Goddess of War. The story explores the origins of the former Director of the NSS and IRIS agent, Baek San, and the protagonist Jung Yoo-gun.",
+    "status": "to-watch"
   },
   {
-    "adult": false,
-    "backdrop_path": "/nHQqprQNnODmucBmVQVLASo4Wes.jpg",
+    "id": 135934,
+    "title": "The Legend of Vox Machina",
+    "name": "The Legend of Vox Machina",
+    "first_air_date": "2022-01-27",
+    "poster_path": "/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+    "release_date": "NaN",
     "genre_ids": [
-      28,
-      12
+      16,
+      10765
     ],
-    "id": 1506762,
-    "original_language": "en",
-    "original_title": "The Spectacular Spider-Man - Fan Film",
-    "userRating": "9",
-    "overview": "Peter Parker is torn between his responsibilities as Spider-Man and the personal life he’s constantly forced to sacrifice. In this emotionally driven fan film, witness a reimagined origin of Electro, and explore the cost of being a hero when the mask begins to consume the man beneath it.",
-    "popularity": 0.0885,
-    "poster_path": "/kMlMFSYkvfbAS4CgZgnxKtvIjmv.jpg",
-    "release_date": "2025-06-09",
-    "title": "The Spectacular Spider-Man - Fan Film",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
+    "vote_average": 8.233,
+    "overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+    "status": "to-watch"
   },
   {
-    "id": 1061474,
-    "title": "Superman",
-    "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
-    "release_date": "2025",
+    "id": 108545,
+    "title": "3 Body Problem",
+    "name": "3 Body Problem",
+    "first_air_date": "2024-03-21",
+    "poster_path": "/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
+    "release_date": "NaN",
     "genre_ids": [
+      10765,
+      9648,
+      18
+    ],
+    "vote_average": 7.497,
+    "overview": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
+    "status": "to-watch"
+  },
+  {
+    "id": 7442,
+    "title": "Sleeping with the Enemy",
+    "poster_path": "/lhkfSDKWvu6fX9LSyVaEklaLNZP.jpg",
+    "release_date": "1991",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "vote_average": 6.5,
+    "overview": "A young woman fakes her own death in an attempt to escape her nightmarish marriage, but discovers it is impossible to elude her controlling husband.",
+    "status": "to-watch"
+  },
+  {
+    "id": 92983,
+    "title": "Vagabond",
+    "name": "Vagabond",
+    "first_air_date": "2019-09-20",
+    "poster_path": "/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      18,
+      9648,
+      10759
+    ],
+    "vote_average": 8.283,
+    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
+    "status": "to-watch"
+  },
+  {
+    "id": 79434,
+    "title": "What's Wrong with Secretary Kim",
+    "name": "What's Wrong with Secretary Kim",
+    "first_air_date": "2018-06-06",
+    "poster_path": "/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "vote_average": 8.3,
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "status": "to-watch"
+  },
+  {
+    "id": 135897,
+    "title": "Our Beloved Summer",
+    "name": "Our Beloved Summer",
+    "first_air_date": "2021-12-06",
+    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "vote_average": 8.39,
+    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
+    "status": "to-watch"
+  },
+  {
+    "id": 97617,
+    "title": "The Misfit of Demon King Academy",
+    "name": "The Misfit of Demon King Academy",
+    "first_air_date": "2020-07-04",
+    "poster_path": "/xBNR7V4s5b0qQfRCiyEvIC5PS6v.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "vote_average": 8.479,
+    "overview": "Anos Voldigord was a tyrannical Demon King that eradicated humans, spirits, and even the gods, but became bored of eternal warfare and reincarnated with dreams of a peaceful world. However, what awaited him in reincarnation after 2000 years were descendants who became too weak after being accustomed to peace, and all sorts of magic that deteriorated to the extreme. Anos enters Demon King Academy that gathers and educates those who are viewed as the reincarnation of the Demon King, but the academy could not see through his true powers and ends up branding him as a misfit.",
+    "status": "to-watch"
+  },
+  {
+    "id": 120155,
+    "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+    "name": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+    "first_air_date": "2022-04-06",
+    "poster_path": "/dtULGP3qRi932NzYGsp7u6q6zAS.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "vote_average": 7.25,
+    "overview": "In his past life, he was known as Demon Lord Varvatos, an all-powerful magic user and ruler. But he was lonely after the loss of his friends and loved ones during his rise to power, so in his dying moments, Varvatos cast a reincarnation spell so that he'd get a second chance at just being a normal guy. At first it looks like that's going to work – he's reborn thousands of years later as villager Ard. Unfortunately for him, his memories are still intact and he's not aware just how much has been lost over the time he spent not existing, and it looks like that's going to cost him his normal life.",
+    "status": "to-watch"
+  },
+  {
+    "id": 93149,
+    "title": "Plunderer",
+    "name": "Plunderer",
+    "first_air_date": "2020-01-09",
+    "poster_path": "/A0XboGeodpGlj33QUtjPMMwrMkN.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      10759,
+      10765,
+      16
+    ],
+    "vote_average": 8.3,
+    "overview": "In a post-apocalyptic world dominated by the so-called \"Numbers,\" each human will have their identity branded with their own \"Count,\" which could define any number related to their life. May it be one's walked distance or amount of compliments given to them by others, this Count could lead them to the abyss when it has dropped to zero. In the year 305 of the Alcian calendar, Hina has inherited a mission from her Mother, whose Count has depreciated to zero, to search for the Legendary Red Baron. In her adventure, she meets a half-masked swordsman named Licht who tries to hide his identity, as he is known as a degenerate for having an incredibly low Count.",
+    "status": "to-watch"
+  },
+  {
+    "id": 195459,
+    "title": "Ragna Crimson",
+    "name": "Ragna Crimson",
+    "first_air_date": "2023-10-01",
+    "poster_path": "/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      16,
+      10765
+    ],
+    "vote_average": 7,
+    "overview": "Ragna teams up with the enigmatic Crimson to stand against the dragons menacing the world. Although Crimson’s motivations are mysterious, his goal and Ragna’s perfectly align, and together they’ll vanquish the dragons once and for all.",
+    "status": "to-watch"
+  },
+  {
+    "id": 52896,
+    "title": "Valvrave the Liberator",
+    "name": "Valvrave the Liberator",
+    "first_air_date": "2013-04-12",
+    "poster_path": "/800znNngbnDR2cHg2HXVHxCaKhP.jpg",
+    "release_date": "NaN",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      18
+    ],
+    "vote_average": 6.8,
+    "overview": "Haruto Tokishima, a student from Sakimori High School living on the sphere's \"Module 77\", discovers a mysterious and powerful mecha called Valvrave (ヴァルヴレイヴ Varuvureivu?) and uses it to defend the module from a Dorssian invasion that takes over the rest of JIOR. Once they learn that both Dorssia and the ARUS intend to claim the Valvrave for themselves, with no concern with their lives, the students of Sakimori High declare Module 77 an independent state and abandon JIOR territory. Soon after, several other Valvraves are found inside the school and some of them are claimed by other students who join Haruto's fight to protect it. Once Haruto is approached by L-elf Karlstein, a Dorssian spy who claims to have the intentions to one day stage a revolution in his own country, both join forces in an unlikely alliance to secure the sovereignty of their newfound nation declared and officially recognized as New JIOR.",
+    "status": "to-watch"
+  },
+  {
+    "id": 843527,
+    "title": "The Idea of You",
+    "poster_path": "/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+    "release_date": "2024",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "vote_average": 7.371,
+    "overview": "40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+    "status": "to-watch"
+  },
+  {
+    "id": 5876,
+    "title": "The Mist",
+    "poster_path": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+    "release_date": "2007",
+    "genre_ids": [
+      27,
       878,
-      12,
-      28
+      53
     ],
-    "vote_average": 7.459,
-    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "status": "to-watch",
-    "notes": "looking forward to watching this fr"
+    "vote_average": 6.939,
+    "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+    "status": "to-watch"
+  },
+  {
+    "id": 1359,
+    "title": "American Psycho",
+    "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "release_date": "2000",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "vote_average": 7.406,
+    "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "status": "to-watch"
+  },
+  {
+    "id": 11324,
+    "title": "Shutter Island",
+    "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "release_date": "2010",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "vote_average": 8.201,
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "status": "to-watch"
+  },
+  {
+    "id": 164,
+    "title": "Breakfast at Tiffany's",
+    "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+    "release_date": "1961",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "vote_average": 7.642,
+    "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+    "status": "to-watch"
   }
 ]
