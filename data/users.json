@@ -1,0 +1,18 @@
+[
+  {
+    "email": "demo@taskflow.com",
+    "name": "okoye david",
+    "avatar": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+    "role": "member",
+    "password": "$2b$10$UIKDg6LFTa9abSHAmfydYeCEr6s0pUpzw63qbrilJR2zUBSusT7Cy",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlbW9AdGFza2Zsb3cuY29tIiwiaWF0IjoxNzUyNzg2OTY1LCJleHAiOjE3NTI3OTA1NjV9.C0I6bmWMfJ3z32oPo69Gs4iDzUSnVyNNY8SON4_TxJo"
+  },
+  {
+    "email": "demo@taskflow.co",
+    "password": "$2b$10$PlkvkO.w5PF2su1GAt0WoOh5Hj1JEP2mkuVkdgZUiOV238mFTQVdC"
+  },
+  {
+    "email": "demo@taskflow.ai",
+    "password": "$2b$10$XmXJMWyvk0B5/rediSbq.e1EF3jitF443AG22dJBQJE92mh5RNqx6"
+  }
+]

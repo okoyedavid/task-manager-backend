@@ -1,0 +1,4 @@
+14072025-13:10:45	9d27ef1b-08f5-46c4-98aa-a236c4616380	Error: EISDIR: illegal operation on a directory, open 'C:\Users\Okoye\OneDrive\Desktop\task-manager-backend\data'
+14072025-13:10:48	94c75879-2d32-4050-934d-a690e6a74148	Error: EISDIR: illegal operation on a directory, open 'C:\Users\Okoye\OneDrive\Desktop\task-manager-backend\data'
+14072025-13:13:14	200ceff2-e197-4cc2-9f1b-e358f4481d4a	TypeError: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received an instance of Object
+17072025-11:46:44	5de69231-4eb1-4cf4-8eaa-b13035910426	Error: secretOrPrivateKey must have a value
